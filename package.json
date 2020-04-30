@@ -1,0 +1,16 @@
+{
+    "name": "lapis-demo-project",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {},
+    "keywords": [
+        "static-generator"
+    ],
+    "author": "smaudd",
+    "license": "ISC",
+    "devDependencies": {
+        "lapis": "file:../lapis-1",
+        "node-emoji": "^1.10.0"
+    }
+}
